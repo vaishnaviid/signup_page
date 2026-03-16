@@ -3,7 +3,7 @@
 This project is a simple static signup page built using **HTML**, **CSS**, and **JavaScript**. It is hosted on an **AWS EC2 instance** using the **Nginx** web server.
 
 ## 🔧 Tech Stack
-
+   
 - **Frontend:** HTML, CSS, JavaScript
 - **Hosting:** AWS EC2 (Linux)
 - **Web Server:** Nginx
