@@ -1,7 +1,7 @@
 # Static Signup Page Website 🌐📝
                                                                                         
 This project is a simple static signup page built using **HTML**, **CSS**, and **JavaScript**. It is hosted on an **AWS EC2 instance** using the **Nginx** web server.
-            
+                                    
 ## 🔧 Tech Stack
    
 - **Frontend:** HTML, CSS, JavaScript
