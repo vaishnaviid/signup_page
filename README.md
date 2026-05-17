@@ -9,7 +9,7 @@ This project is a simple static signup page built using **HTML**, **CSS**, and *
 - **Web Server:** Nginx
                                           
 ## 🚀 Features   
-
+                          
 - Simple and clean user interface for user signup.
 - Responsive design.
 - Client-side input validation with JavaScript.
